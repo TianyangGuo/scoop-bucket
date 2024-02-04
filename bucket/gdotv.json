@@ -1,0 +1,6 @@
+{
+    "version": "1.0",
+    "homepage": "https://gdotv.com/",
+    "url": "https://gdotv.blob.core.windows.net/binaries/gdotv.exe",
+    "extract_dir": "gdotv"
+}
